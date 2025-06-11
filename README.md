@@ -1,4 +1,4 @@
-# Python Programming Intership - Codmetric
+# Python Programming Internship - Codmetric
 
 
 ## Overview
