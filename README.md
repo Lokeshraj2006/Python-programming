@@ -2,7 +2,9 @@
 
 
 ## Overview
-This repository contains five beginner-friendly Python mini projects, each designed to improve your understanding of core programming concepts like functions, loops, conditionals, user input handling, and file operations. These projects are:
+This repository contains projects completed as part of the Python Programming Internship by CodMetric.
+The internship was focused on applying core Python concepts through real-time mini-projects.
+I developed five beginner-friendly command-line applications, each designed to build problem-solving skills and programming confidence.. These applications are:
 
 1. Command-Line Calculator  
 2. Unit Converter  
