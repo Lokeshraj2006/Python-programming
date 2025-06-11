@@ -1,0 +1,3 @@
+To make breakfast | done
+Finish python tutorial | todo
+Go to college | todo
