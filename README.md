@@ -102,10 +102,3 @@ A simple command-line to-do list that lets users add, delete, and mark tasks as 
 - `mark_completed(tasks)`: Marks a task as done
 
 ---
-
-## How to Run
-1. Save each script as a `.py` file in your project folder.
-2. Open your terminal or command prompt.
-3. Run a program using the command:
-   ```bash
-   python filename.py
