@@ -19,16 +19,14 @@ The game includes:
 - Provides feedback ("Too low", "Too high") on each guess
 - Tracks and displays the number of attempts taken
 - Handles invalid input (non-integer entries)
-- Handles keyboard interruption (Ctrl+C) cleanly
-
 ---
 
 ## Functions Used
 
 | Function Name        | Purpose                                                    |
 |---------------------|------------------------------------------------------------|
-| `get_valid_guess()` | Continuously asks for input until a valid integer is given |
-| `number_guessing_game()` | Contains the game logic, generates the random number, compares guesses, and counts attempts |
+| `random.randint(a, b)` | Continuously asks for input until a valid integer is given |
+| `Loop (while guess != number_to_guess)` | Repeats the guess prompt until the correct number is guessed. |
 
 ---
 
